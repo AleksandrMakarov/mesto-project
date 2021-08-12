@@ -12,6 +12,6 @@
 * JavaScript
 * BEM
 
-* [Ссылка на проект](https://aleksandrmakarov.github.io/mesto/)
+* [Ссылка на проект](https://aleksandrmakarov.github.io/mesto-project/)
 
 
